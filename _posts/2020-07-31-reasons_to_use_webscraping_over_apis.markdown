@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Reasons to use webscraping over API's"
-date:       2020-07-31 20:11:17 +0000
+date:       2020-07-31 16:11:17 -0400
 permalink:  reasons_to_use_webscraping_over_apis
 ---
 
